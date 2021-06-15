@@ -1,0 +1,10 @@
+.promptt{
+    visibility:hidden;
+}
+.edit:hover .promptt{
+   visibility: unset;
+}
+.linkdisable{
+text-decoration: none;
+color: white;
+}

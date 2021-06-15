@@ -1,0 +1,1 @@
+this document is just to make to sure that the folder gets uploaded when hosting in heroku. Uploaded profile pictures will be saved here.

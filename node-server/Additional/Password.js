@@ -1,0 +1,1 @@
+module.exports = '@Ud%ube2uf2#35hanwo927*'
